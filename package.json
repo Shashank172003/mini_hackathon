@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "mongoose": "^8.20.0",
+    "tailwindcss": "^4.1.17"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
